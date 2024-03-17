@@ -1,0 +1,4 @@
+testing ke by default hmare pass pehelse hi package.json me libraries install hoti hai
+aur src folder me app.test.js name ka folder avalible hota hai
+
+testing krne ke liye we use npm run test command use krenge 
